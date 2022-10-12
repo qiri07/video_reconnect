@@ -9,4 +9,4 @@ use python opencv lib to process video streaming while the network is down and r
 
 场景：传入视频流地址，进行视频 算法处理，确保视频流的网络波动不稳定，进行的 视频流断线重连处理
 
-The tools to push streaming can use OBS,ffmpeg etc. The MediaCenter can use ZLMediaServer
+The tools to push streaming can use ([OBS](https://github.com/obsproject/obs-studio)),([ffmpeg](https://github.com/FFmpeg/FFmpeg)) etc. The MediaCenter can use ([ZLMediaServer](https://github.com/ZLMediaKit/ZLMediaKit))
