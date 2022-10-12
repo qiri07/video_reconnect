@@ -1,5 +1,5 @@
 # video_reconnect 视频流 断链重连处理
-use python opencv lib to process video streaming while the network is down and reconnect.
+use python ([opencv](https://github.com/opencv/opencv)) lib to process video streaming while the network is down and reconnect.
 
 1 stream_url 传入本地视频流地址 或者网络视频流地址 ，比如 rtsp,rtmp都可以
 
